@@ -2,3 +2,6 @@ jupyter
 numpy
 plotly
 pandas
+sklearn
+pickle
+seaborn
